@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/punipuni-site/static/css/main.b06fd8cb.chunk.css",
+    "main.js": "/punipuni-site/static/js/main.8afe5c90.chunk.js",
+    "main.js.map": "/punipuni-site/static/js/main.8afe5c90.chunk.js.map",
+    "runtime-main.js": "/punipuni-site/static/js/runtime-main.1608922e.js",
+    "runtime-main.js.map": "/punipuni-site/static/js/runtime-main.1608922e.js.map",
+    "static/css/2.2574bb7b.chunk.css": "/punipuni-site/static/css/2.2574bb7b.chunk.css",
+    "static/js/2.e1dd743b.chunk.js": "/punipuni-site/static/js/2.e1dd743b.chunk.js",
+    "static/js/2.e1dd743b.chunk.js.map": "/punipuni-site/static/js/2.e1dd743b.chunk.js.map",
+    "index.html": "/punipuni-site/index.html",
+    "precache-manifest.fd3c36be6b290aac64ecaeb44bf20bfe.js": "/punipuni-site/precache-manifest.fd3c36be6b290aac64ecaeb44bf20bfe.js",
+    "service-worker.js": "/punipuni-site/service-worker.js",
+    "static/css/2.2574bb7b.chunk.css.map": "/punipuni-site/static/css/2.2574bb7b.chunk.css.map",
+    "static/css/main.b06fd8cb.chunk.css.map": "/punipuni-site/static/css/main.b06fd8cb.chunk.css.map",
+    "static/js/2.e1dd743b.chunk.js.LICENSE.txt": "/punipuni-site/static/js/2.e1dd743b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/punipuni-site/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/yut-cov2.png": "/punipuni-site/static/media/yut-cov2.ce242182.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1608922e.js",
+    "static/css/2.2574bb7b.chunk.css",
+    "static/js/2.e1dd743b.chunk.js",
+    "static/css/main.b06fd8cb.chunk.css",
+    "static/js/main.8afe5c90.chunk.js"
+  ]
+}
