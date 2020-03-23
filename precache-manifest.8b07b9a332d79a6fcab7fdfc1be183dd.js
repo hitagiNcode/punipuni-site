@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de4fd6364aa5f84dafa4fc9d9724fc95",
+    "revision": "a09f5d8d5cd9839f1364ed6e53bf1a9c",
     "url": "/punipuni-site/index.html"
   },
   {
-    "revision": "a1be6c5521a4e24aef78",
+    "revision": "5c4ca6144e6548e68118",
     "url": "/punipuni-site/static/css/2.2574bb7b.chunk.css"
   },
   {
-    "revision": "83f6eb270b422f1d7086",
+    "revision": "2e630767b6a8e1e725ee",
     "url": "/punipuni-site/static/css/main.b06fd8cb.chunk.css"
   },
   {
-    "revision": "a1be6c5521a4e24aef78",
-    "url": "/punipuni-site/static/js/2.e1dd743b.chunk.js"
+    "revision": "5c4ca6144e6548e68118",
+    "url": "/punipuni-site/static/js/2.7449f22f.chunk.js"
   },
   {
     "revision": "9e3f40ea04bbb9fe4c222c108facde66",
-    "url": "/punipuni-site/static/js/2.e1dd743b.chunk.js.LICENSE.txt"
+    "url": "/punipuni-site/static/js/2.7449f22f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83f6eb270b422f1d7086",
-    "url": "/punipuni-site/static/js/main.8afe5c90.chunk.js"
+    "revision": "2e630767b6a8e1e725ee",
+    "url": "/punipuni-site/static/js/main.08cc8b4a.chunk.js"
   },
   {
     "revision": "a18808c6c70322288931",
