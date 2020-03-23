@@ -40,8 +40,10 @@ class App extends React.Component {
        <Container className="p-0 b-background" fluid={true}>
 
         <Navbar className="border-bottom navbar-dark" bg="transparent" expand="lg"> 
+          <Link className="nav-link text-light p-0" to="/">
           <Navbar.Brand><img className="img-fluid rounded logo-img" src={Logo} alt=""></img>
-          <a href="/" className="text-light header-logo">PuniPuni Studios</a></Navbar.Brand> 
+          <span className="text-light header-logo">PuniPuni Studios</span></Navbar.Brand>
+          </Link> 
           <Navbar.Toggle className="border-0 "  aria-controls="navbar-toggle" /> 
           <Navbar.Collapse className="" id="navbar-toggle">
             <Nav className="ml-auto">
@@ -50,10 +52,13 @@ class App extends React.Component {
               <button className="btn btn-default text-light dropdown-toggle " 
               type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" 
               aria-expanded="false">Games</button>
-             <div className="dropdown-menu b-background" aria-labelledby="dropdownMenuButton">
-              <a className="dropdown-item text-light" href="/fromhell">From Hell</a>
-              <a className="dropdown-item text-light" href="/puzzyles">Puzzyles</a>
-              <a className="dropdown-item text-light" href="/gunzfate">Gunz Fate</a>
+             <div className="dropdown-menu b-background border border-info" aria-labelledby="dropdownMenuButton">
+              <Link className="dropdown-item nav-link text-light " to="/fromhell">
+                From Hell</Link>
+              <Link className="dropdown-item nav-link text-light  " to="/puzzyles">
+                Puzzyles</Link>
+              <Link className="dropdown-item nav-link text-light  " to="/gunzfate">
+                Gunz Fate</Link>
                </div>
               </div>
               <Link className="nav-link text-light" to="/about">About</Link>

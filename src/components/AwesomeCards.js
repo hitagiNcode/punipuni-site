@@ -1,4 +1,5 @@
 import React from 'react';
+import  Link  from 'react-router-dom/Link';
 import evverest from '../assets/img/evverest.png';
 
 function AwesomeCards(){
@@ -15,7 +16,7 @@ function AwesomeCards(){
          <div className="row ">
              <div className=" col-lg-4 col-md-6 col-xs-12">
                  <div className="card">
-                     <a  href="/fromhell">
+                    <Link className="" to="/fromhell"> 
                      <div className="card-body">
                          <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
                          <h3 className="text-dark">From Hell</h3>
@@ -23,67 +24,67 @@ function AwesomeCards(){
                          <p className="text-dark">Your biggest aim is to survive with your friends!</p>
                          <div className="d-flex flex-row justify-content-center">
                              <div className="p-4">
-                                <a href="https://www.facebook.com/punipunistudios" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-facebook"></i>
-                                </a>
+                                 {/*Instead of facebook or instagram symbols use game-platform symbol*/}
+                                <i className="fa fa-android"></i> 
                              </div>
                              <div className="p-4">
-                             <a href="https://www.instagram.com/punipunistudios_/" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-instagram"></i>
-                                </a>
+                                <i className="fa fa-apple"></i>  
                              </div>
+                             <div className="p-4">
+                             <i className="fa fa-steam"></i>
+                            </div>
                          </div>
                      </div>
-                     </a>
+                     </Link> 
                  </div>
                  
              </div>
              <div className=" col-lg-4 col-md-6 col-xs-12">
              <div className="card">
-                 <a  href="/puzzyles">
+                <Link className="" to="/puzzyles"> 
                      <div className="card-body">
                          <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
                          <h3 className="text-dark">Puzzyles</h3>
                          <h5 className="text-dark">2D Puzzle Game</h5>
                          <p className="text-dark">Your kids will be learning english while playing this game!</p>
                          <div className="d-flex flex-row justify-content-center">
-                             <div className="p-4">
-                                <a href="https://www.facebook.com/punipunistudios" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-facebook"></i>
-                                </a>
+                         <div className="p-4">
+                                 {/*Instead of facebook or instagram symbols use game-platform symbol*/}
+                                <i className="fa fa-android"></i> 
                              </div>
                              <div className="p-4">
-                             <a href="https://www.instagram.com/punipunistudios_/" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-instagram"></i>
-                                </a>
+                                <i className="fa fa-apple"></i>  
                              </div>
+                             <div className="p-4">
+                             <i className="fa fa-steam"></i>
+                            </div>
                          </div>
                      </div>
-                     </a>
+                   </Link>
                  </div>
              </div>
              <div className=" col-lg-4 col-md-6 col-xs-12">
              <div className="card">
-             <a  href="/fategunz">
+             <Link className="" to="/gunzfate"> 
                      <div className="card-body">
                          <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
                          <h3 className="text-dark">Gunz Fate</h3>
                          <h5 className="text-dark">3D/2D Gun Game</h5>
                          <p className="text-dark">Kill all your enemies and clear the stages. Without hesitation!</p>
                          <div className="d-flex flex-row justify-content-center">
-                             <div className="p-4">
-                                <a href="https://www.facebook.com/punipunistudios" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-facebook"></i>
-                                </a>
+                         <div className="p-4">
+                                 {/*Instead of facebook or instagram symbols use game-platform symbol*/}
+                                <i className="fa fa-android"></i> 
                              </div>
                              <div className="p-4">
-                             <a href="https://www.instagram.com/punipunistudios_/" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-instagram"></i>
-                                </a>
+                                <i className="fa fa-apple"></i>  
                              </div>
+                             <div className="p-4">
+                             <i className="fa fa-steam"></i>
+                            </div>
                          </div>
                      </div>
-                     </a>
+                </Link>
                  </div>
              </div>
          </div>
