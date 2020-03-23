@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/punipuni-site/static/css/main.b06fd8cb.chunk.css",
-    "main.js": "/punipuni-site/static/js/main.08cc8b4a.chunk.js",
-    "main.js.map": "/punipuni-site/static/js/main.08cc8b4a.chunk.js.map",
+    "main.js": "/punipuni-site/static/js/main.a0744beb.chunk.js",
+    "main.js.map": "/punipuni-site/static/js/main.a0744beb.chunk.js.map",
     "runtime-main.js": "/punipuni-site/static/js/runtime-main.1608922e.js",
     "runtime-main.js.map": "/punipuni-site/static/js/runtime-main.1608922e.js.map",
     "static/css/2.2574bb7b.chunk.css": "/punipuni-site/static/css/2.2574bb7b.chunk.css",
     "static/js/2.7449f22f.chunk.js": "/punipuni-site/static/js/2.7449f22f.chunk.js",
     "static/js/2.7449f22f.chunk.js.map": "/punipuni-site/static/js/2.7449f22f.chunk.js.map",
     "index.html": "/punipuni-site/index.html",
-    "precache-manifest.8b07b9a332d79a6fcab7fdfc1be183dd.js": "/punipuni-site/precache-manifest.8b07b9a332d79a6fcab7fdfc1be183dd.js",
+    "precache-manifest.05a2d7735bf9fc0dc138af43eda9a406.js": "/punipuni-site/precache-manifest.05a2d7735bf9fc0dc138af43eda9a406.js",
     "service-worker.js": "/punipuni-site/service-worker.js",
     "static/css/2.2574bb7b.chunk.css.map": "/punipuni-site/static/css/2.2574bb7b.chunk.css.map",
     "static/css/main.b06fd8cb.chunk.css.map": "/punipuni-site/static/css/main.b06fd8cb.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.2574bb7b.chunk.css",
     "static/js/2.7449f22f.chunk.js",
     "static/css/main.b06fd8cb.chunk.css",
-    "static/js/main.08cc8b4a.chunk.js"
+    "static/js/main.a0744beb.chunk.js"
   ]
 }

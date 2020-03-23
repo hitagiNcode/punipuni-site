@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a09f5d8d5cd9839f1364ed6e53bf1a9c",
+    "revision": "ff057802aaa29bc47a8a388578b9083f",
     "url": "/punipuni-site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/punipuni-site/static/css/2.2574bb7b.chunk.css"
   },
   {
-    "revision": "2e630767b6a8e1e725ee",
+    "revision": "b8631cc6f4c118ba86c0",
     "url": "/punipuni-site/static/css/main.b06fd8cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/punipuni-site/static/js/2.7449f22f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e630767b6a8e1e725ee",
-    "url": "/punipuni-site/static/js/main.08cc8b4a.chunk.js"
+    "revision": "b8631cc6f4c118ba86c0",
+    "url": "/punipuni-site/static/js/main.a0744beb.chunk.js"
   },
   {
     "revision": "a18808c6c70322288931",
