@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed9330231fcc38fc032b98b68a3cafc8",
+    "revision": "4d618b8a7f4cecca720904f26b5141fa",
     "url": "/punipuni-site/index.html"
   },
   {
-    "revision": "5aa9a1d22d2d55d8882f",
+    "revision": "a65c074924207e1d0169",
     "url": "/punipuni-site/static/css/2.2574bb7b.chunk.css"
   },
   {
-    "revision": "18ab1e875844df3b92a1",
-    "url": "/punipuni-site/static/css/main.29f897cf.chunk.css"
+    "revision": "0d7f655cab8c36d7f60c",
+    "url": "/punipuni-site/static/css/main.3d6f0746.chunk.css"
   },
   {
-    "revision": "5aa9a1d22d2d55d8882f",
-    "url": "/punipuni-site/static/js/2.bedacb97.chunk.js"
+    "revision": "a65c074924207e1d0169",
+    "url": "/punipuni-site/static/js/2.fc3387fa.chunk.js"
   },
   {
     "revision": "9e3f40ea04bbb9fe4c222c108facde66",
-    "url": "/punipuni-site/static/js/2.bedacb97.chunk.js.LICENSE.txt"
+    "url": "/punipuni-site/static/js/2.fc3387fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18ab1e875844df3b92a1",
-    "url": "/punipuni-site/static/js/main.645482c7.chunk.js"
+    "revision": "0d7f655cab8c36d7f60c",
+    "url": "/punipuni-site/static/js/main.135107ed.chunk.js"
   },
   {
     "revision": "a18808c6c70322288931",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/punipuni-site/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "7d37ba7c881dcf09ccdd2ef55eeed01a",
+    "url": "/punipuni-site/static/media/job-artist.7d37ba7c.png"
+  },
+  {
+    "revision": "95bf94311f29635cc835bbc361748ee8",
+    "url": "/punipuni-site/static/media/job-codder.95bf9431.png"
   },
   {
     "revision": "b861ac79d7907c9d9a52cdbf09ef444b",
