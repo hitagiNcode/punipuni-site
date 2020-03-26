@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff057802aaa29bc47a8a388578b9083f",
+    "revision": "ed9330231fcc38fc032b98b68a3cafc8",
     "url": "/punipuni-site/index.html"
   },
   {
-    "revision": "5c4ca6144e6548e68118",
+    "revision": "5aa9a1d22d2d55d8882f",
     "url": "/punipuni-site/static/css/2.2574bb7b.chunk.css"
   },
   {
-    "revision": "b8631cc6f4c118ba86c0",
-    "url": "/punipuni-site/static/css/main.b06fd8cb.chunk.css"
+    "revision": "18ab1e875844df3b92a1",
+    "url": "/punipuni-site/static/css/main.29f897cf.chunk.css"
   },
   {
-    "revision": "5c4ca6144e6548e68118",
-    "url": "/punipuni-site/static/js/2.7449f22f.chunk.js"
+    "revision": "5aa9a1d22d2d55d8882f",
+    "url": "/punipuni-site/static/js/2.bedacb97.chunk.js"
   },
   {
     "revision": "9e3f40ea04bbb9fe4c222c108facde66",
-    "url": "/punipuni-site/static/js/2.7449f22f.chunk.js.LICENSE.txt"
+    "url": "/punipuni-site/static/js/2.bedacb97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8631cc6f4c118ba86c0",
-    "url": "/punipuni-site/static/js/main.a0744beb.chunk.js"
+    "revision": "18ab1e875844df3b92a1",
+    "url": "/punipuni-site/static/js/main.645482c7.chunk.js"
   },
   {
     "revision": "a18808c6c70322288931",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/punipuni-site/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "b861ac79d7907c9d9a52cdbf09ef444b",
+    "url": "/punipuni-site/static/media/job-top.b861ac79.png"
+  },
+  {
+    "revision": "f06a148a94e19b7a7000dcf22326e63c",
+    "url": "/punipuni-site/static/media/punipuni-cov.f06a148a.png"
   },
   {
     "revision": "ce24218259e310e19f4ff4b34b2c9622",

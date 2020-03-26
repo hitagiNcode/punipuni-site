@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/punipuni-site/precache-manifest.05a2d7735bf9fc0dc138af43eda9a406.js"
+  "/punipuni-site/precache-manifest.af58dcd15ba0691ec72f376dfda7a7a6.js"
 );
 
 self.addEventListener('message', (event) => {
