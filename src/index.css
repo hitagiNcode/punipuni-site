@@ -8,6 +8,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html { 
+  background: #282c34 no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  scroll-behavior: smooth;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -26,32 +35,6 @@ code {
 }
 .mail-card{
   padding-bottom: 10px;
-}
-
-.g-card {
-  margin: 20px;
-}
-
-.g-card-image{
-  border-radius: 10px;
-  width: 300px;
-  height: 480px;
-  box-shadow: 0px 0px 3px 1px #ccc;
-}
-
-.g-card-info{
-  margin-top: 10px;
-  min-height: 100px;
-}
-
-.g-card-title{
-  font-size: 24px;
-  margin: 0px;
-}
-
-.g-card-sub-title{
-  font-size:  16px;
-  margin: 0px;
 }
 
 .b-background{
@@ -93,7 +76,7 @@ a:hover {
 }
 
 #team .card{
-  
+
   max-width: 300px;
   min-height: 390px;
   border-radius: 0;
@@ -101,7 +84,9 @@ a:hover {
   transition: all 0.3s ease-in;
   -webkit-transition: all 0.3 ease-in;
   -moz-transition: all 0.3 ease-in;
-  margin-bottom: 15px;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 15px; /* Added */
 }
 
 #team .card:hover{
@@ -116,11 +101,44 @@ a:hover {
   color: #fff !important;
 }
 
-.published{
-  color: wheat;
+.job-btn{
+  position:relative;
+  top:40%; 
+  /*
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  */
+  background-color: #555;
+  color: white;
+  border: none;
 }
 
-.col-xs-12{padding-left: 50px;}
+
+.text-jobs{
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.jobs-top{
+  
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4)),url(./assets/img/jobs-page/job-top.png);
+}
+
+.slider-img{
+  
+}
+
+
+
+
+
+
 
 
 

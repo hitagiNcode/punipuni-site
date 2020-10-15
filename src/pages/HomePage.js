@@ -17,7 +17,7 @@ function HomePage (props){
 		  	</div>
             <div className="row">
             <div className="col-xl-3 offset-xl-1 text-center mt-5">
-					<img src={Logo} width="150" height="150" alt="" />
+					<img  src={Logo} width="150" height="150" alt="" />
 			</div>
             <div className="col">
             <h1 className="mt-5 text-center">Welcome to PuniPuni Studios!</h1>

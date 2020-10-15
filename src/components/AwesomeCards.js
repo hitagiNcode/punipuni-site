@@ -13,8 +13,9 @@ function AwesomeCards(){
                 
             </div> 
          </div>
-         <div className="row ">
-             <div className=" col-lg-4 col-md-6 col-xs-12">
+
+         <div className="row">
+             <div className="col-lg-4 col-md-6 col-xs-12 ">
                  <div className="card">
                     <Link className="" to="/fromhell"> 
                      <div className="card-body">
