@@ -25,11 +25,11 @@ function AboutPage (props){
                 You should definitely check out my channel.</p>
                 <h4 className="text-center">You can also find us at</h4>
                 <div className="text-center"> 
-                <h4> <a className="a p-2" href="https://www.facebook.com/punipunistudios" 
+                <h4> <a className="a p-2" href="https://www.facebook.com/punipunistudio" 
                 target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square"></i></a>
-                <a className="a p-2" href="https://www.instagram.com/punipunistudios_/" 
+                <a className="a p-2" href="https://www.instagram.com/punipuni.studio/" 
                 target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
-                <a className="a p-2" href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-g%C3%BCnen%C3%A7-45591618b/" 
+                <a className="a p-2" href="https://www.linkedin.com/in/baris-gunenc/" 
                 target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
                 </h4>
                  </div>

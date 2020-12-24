@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap");
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-html { 
-  background: #282c34 no-repeat center center fixed; 
+html {
+  background: #282c34 no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,65 +18,80 @@ html {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.nav-white{
+.nav-white {
   color: #fff;
 }
 
-.header-logo{
+.header-text {
   padding-left: 10px;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: "Shadows Into Light", cursive;
+}
+.logo-img {
+  height: auto;
+  width: auto;
+  max-width: 50px;
+  max-height: 50px;
 }
 
-.env-size{
+@media screen and (max-width: 580px) {
+  .mainpage-img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .mainpage-img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+}
+
+.env-size {
   font-size: 30px;
 }
-.mail-card{
+.mail-card {
   padding-bottom: 10px;
 }
 
-.b-background{
+.b-background {
   background-color: #282c34;
   color: white;
-  
 }
 
 /* This a is used at about page*/
 .a {
-  text-decoration:none;
+  text-decoration: none;
   color: white;
 }
-a:hover { 
-  text-decoration: none; 
-} 
+a:hover {
+  text-decoration: none;
+}
 
-
-.card-font{
-  font-family: 'Raleway', sans-serif;
+.card-font {
+  font-family: "Raleway", sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #777;
-
 }
 
-#team img{
+#team img {
   margin-top: -15px;
 }
 
-#team i{
+#team i {
   font-size: 26px;
   color: #555;
   margin-top: -40px;
 }
 
-#team p{
+#team p {
   font-weight: 500;
 }
 
-#team .card{
-
+#team .card {
   max-width: 300px;
   min-height: 390px;
   border-radius: 0;
@@ -89,21 +104,24 @@ a:hover {
   margin-bottom: 15px; /* Added */
 }
 
-#team .card:hover{
-  background: #C0C0C0;
+#team .card:hover {
+  background: #c0c0c0;
   color: #fff !important;
   border-radius: 5px;
   border: none;
-  box-shadow:  5px 5px 10px white;
+  box-shadow: 5px 5px 10px white;
 }
 
-#team .card:hover h3, #team .card:hover i, #team .card:hover h5, #team .card:hover p{
+#team .card:hover h3,
+#team .card:hover i,
+#team .card:hover h5,
+#team .card:hover p {
   color: #fff !important;
 }
 
-.job-btn{
-  position:relative;
-  top:40%; 
+.job-btn {
+  position: relative;
+  top: 40%;
   /*
   left: 50%;
   transform: translate(-50%, -50%);
@@ -114,33 +132,24 @@ a:hover {
   border: none;
 }
 
-
-.text-jobs{
+.text-jobs {
   position: relative;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-.jobs-top{
-  
+.jobs-top {
   height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4)),url(./assets/img/jobs-page/job-top.png);
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url(./assets/img/jobs-page/job-top.png);
 }
 
-.slider-img{
-  
+.slider-img {
 }
-
-
-
-
-
-
-
-
-
-
-

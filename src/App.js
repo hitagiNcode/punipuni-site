@@ -41,9 +41,9 @@ class App extends React.Component {
                 <img
                   className="img-fluid rounded logo-img"
                   src={Logo}
-                  alt=""
+                  alt="PuniPuni Header Logo"
                 ></img>
-                <span className="text-light header-logo">PuniPuni Studio</span>
+                <span className="text-light header-text">PuniPuni Studio</span>
               </Navbar.Brand>
             </Link>
             <Navbar.Toggle
