@@ -36,19 +36,6 @@ code {
   max-height: 50px;
 }
 
-@media screen and (max-width: 580px) {
-  .mainpage-img {
-    max-width: 200px;
-    max-height: 200px;
-  }
-}
-@media screen and (max-width: 320px) {
-  .mainpage-img {
-    max-width: 200px;
-    max-height: 200px;
-  }
-}
-
 .env-size {
   font-size: 30px;
 }
@@ -149,7 +136,4 @@ a:hover {
       rgba(0, 0, 0, 0.4)
     ),
     url(./assets/img/jobs-page/job-top.png);
-}
-
-.slider-img {
 }
