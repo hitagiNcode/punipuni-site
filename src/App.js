@@ -43,7 +43,7 @@ class App extends React.Component {
                   src={Logo}
                   alt=""
                 ></img>
-                <span className="text-light header-logo">PuniPuni Studios</span>
+                <span className="text-light header-logo">PuniPuni Studio</span>
               </Navbar.Brand>
             </Link>
             <Navbar.Toggle

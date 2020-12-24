@@ -5,10 +5,10 @@ import Content from '../components/Content';
 function AboutPage (props){
     return (
         <div className="b-background container">   
-            <h1 className="display-6 text-center text-warning p-4">About PuniPuni Studios</h1>
+            <h1 className="display-6 text-center text-warning p-4">About PuniPuni Studio</h1>
 
             <Content >
-                <p>Hello, my name is <b>BARIS</b>. I'm the founder of <b>PuniPuni Studios</b>. In 2012, I started writing code with <b>JAVA </b> 
+                <p>Hello, my name is <b>BARIS</b>. I'm the founder of <b>PuniPuni Studio</b>. In 2012, I started writing code with <b>JAVA </b> 
                 for my Minecraft server. I created a bunch of custom plugins for the server.
                 We really had fun at that time!</p>
                 <p>I also learned <b>MERN</b> stack. Because creating websites with React, Express Js, 
@@ -18,7 +18,7 @@ function AboutPage (props){
                 If you are good at <b>JAVA</b>, you will understand <b>C#</b> with in a few days.
                 And after that, I needed to create my own game assets with <b>Blender</b>. It has a lot of
                 tutorials online and a lot of features that you can only find in paid engines but for free.</p>
-                <p>So now, I can almost create everything I need. My dream is to make PuniPuni Studios a big game company. 
+                <p>So now, I can almost create everything I need. My dream is to make PuniPuni Studio a big game company. 
                 I know this is not a easy task. Because, for now I'm the only developer.</p>
                 <p>In my free time, I teach people what I know by creating <b>Youtube</b> videos on this channel 
                 <a href="https://www.youtube.com/channel/UC6zKctA1g46P2Hed1cBzhzQ" target="_blank" rel="noopener noreferrer"> PuniPuni Code</a>.

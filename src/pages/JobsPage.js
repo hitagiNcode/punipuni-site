@@ -207,7 +207,7 @@ import Appl from '../assets/img/jobs-page/app-process.png'
                 <h1 className=" text-center border-top p-1 mt-5"><b>Application <br/>Process</b></h1>
                 <img className="img-fluid mt-5" src={Appl} alt="process img"></img>
                 <h5 className="mt-3">
-				<b>Please provide the items below to our mail address info@punipunistudios.com;</b></h5>
+				<b>Please provide the items below to our mail address info@punipuni.studio;</b></h5>
 				<div >
 					<li>
 						<span>Updated CV/resume/Linkedin Profile link</span>

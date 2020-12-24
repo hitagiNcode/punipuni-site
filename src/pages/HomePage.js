@@ -20,8 +20,8 @@ function HomePage (props){
 					<img  src={Logo} width="150" height="150" alt="" />
 			</div>
             <div className="col">
-            <h1 className="mt-5 text-center">Welcome to PuniPuni Studios!</h1>
-            <p>PuniPuni Studios is a game studio based in Antalya, Turkey.<br/>
+            <h1 className="mt-5 text-center">Welcome to PuniPuni Studio!</h1>
+            <p>PuniPuni Studio is a game studio based in Antalya, Turkey.<br/>
                  We were founded in 2019 and since then it’s been a great journey to create 
                  a studio recalled by its’ games. We created several games while we continue this journey.</p>
             </div>

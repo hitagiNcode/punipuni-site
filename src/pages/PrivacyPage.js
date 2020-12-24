@@ -5,13 +5,13 @@ function Privacy(){
 
     return(
         <div className="container">   
-            <h1 className="text-warning text-center m-5">PuniPuni Studios Notice of Privacy (for the EU/EEA)</h1>
+            <h1 className="text-warning text-center m-5">PuniPuni Studio Notice of Privacy (for the EU/EEA)</h1>
             <div className="container"> 
             <h5 className="font-weight-bold m-4 ">Last revised: [20 March 2020]</h5>
-                <p>PuniPuni Studios provides this Privacy Policy to inform you of our policies and procedures 
+                <p>PuniPuni Studio provides this Privacy Policy to inform you of our policies and procedures 
                 regarding the processing of Personal Data of users of (i) our websites located at 
-                <a href="/"> https://punipunistudios.com</a> (our “Site”), including any services, features and 
-                content accessible or downloadable from the Site, and (ii) any other PuniPuni Studios application,
+                <a href="/"> https://punipuni.studio</a> (our “Site”), including any services, features and 
+                content accessible or downloadable from the Site, and (ii) any other PuniPuni Studio application,
                  service or product licensed, downloaded or otherwise accessed by such users through 
                  third party websites or sources ((i) and (ii) collectively, the “Service”). 
                  We are committed to protecting and respecting your privacy. This Privacy Policy
@@ -26,12 +26,12 @@ function Privacy(){
                 Controller in the sense of the General Data Protection Regulation (GDPR) and other data 
                 protection or data privacy laws in the Member States of the European Union or the European 
                 Economic Area and other guidelines with a data protection nature regarding the Services is: 
-                PuniPuni Studios PuniPuni Yazılım Bilgi Ve İletişim Eğitim Tekn. Ve Hizm. Elek. San. 
+                PuniPuni Studio PuniPuni Yazılım Bilgi Ve İletişim Eğitim Tekn. Ve Hizm. Elek. San. 
                 Ve Tic. LTD. ŞTİ
                 <br/>Demircikara Mahallesi, Burhanettin Onat Caddesi no: 71
                 <br/>07100, Muratpasa/Antalya, Turkey
-                <br/>Email: info@punipunistudios.com The Controller is called “PuniPuni Studios”, “we”,
-                 “our” and “us” in this Policy. The Representative of PuniPuni Studios pursuant to Art. 
+                <br/>Email: info@punipuni.studio The Controller is called “PuniPuni Studio”, “we”,
+                 “our” and “us” in this Policy. The Representative of PuniPuni Studio pursuant to Art. 
                  27 of the GDPR is: Rivacy GmbH
                 <br/>Hammerbrookstr. 90
                 <br/>20079 Hamburg
@@ -39,7 +39,7 @@ function Privacy(){
                 <br/>Email: info@rivacy.eu
                 </p>
             <h5 className="font-weight-bold m-1">2. Contact details of the Data Protection Officer (DPO)</h5>
-            <p> The Data Protection Officer of PuniPuni Studios may be contacted at privacy@punipunistudios.com.</p>
+            <p> The Data Protection Officer of PuniPuni Studio may be contacted at privacy@punipuni.studio.</p>
             <h5 className="font-weight-bold m-1">3. General information on our data processing</h5>
             <p> We process Personal Data only when necessary for the performance of a contract with you, 
                 when processing is necessary for compliance with a legal obligation we are subject to, 
@@ -95,13 +95,13 @@ function Privacy(){
                  he USA. This transfer is safeguarded by Data Processing Agreements with data 
                 protection guarantees and the EU-US Privacy Shield, as the recipients are certified
                 under this framework. To receive a copy of the respective safeguards, 
-                please contact us at privacy@punipunistudios.com.</p>
+                please contact us at privacy@punipuni.studio.</p>
             <h5 className="font-weight-bold m-1">6. Job applications</h5>
             <p> This section describes how we process Personal Data you submit through our Site for job applications as further described below. Personal Data includes your name, address, education, contact details, current job title and employer, attachments (such as CV, cover letter), and possibly your passport details. Any personal data you provide to us will be used to process your application for the specific position you have applied for. The processing of your personal data is based on Art. 6(1)(b) of the GDPR. We need your Personal Data in order to conduct the recruitment process, and we will not be able to consider you for a job offer when you do not provide us with your Personal Data.</p>
             <h5 className="font-weight-bold m-1">7. Your rights</h5>
             <p> You have the right to access your Personal Data that we hold about you and to correct, update, amend, suppress, delete or otherwise modify any Personal Data where it is inaccurate, or has been processed in violation of the applicable data protection regulations, unless we have to keep the Personal Data for legitimate business or legal purposes. When updating your Personal Data, we may ask you to verify your identity before we can act upon your request. You may object to the use or processing of your Personal Data or withdraw consent to use your Personal Data at any time. You have the following rights: The right to require free of charge (i) information whether your Personal Data is retained and (ii) access to and/or (iii) duplicates of the Personal Data retained. However, if the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or refuse to act on the request; The right to request proper rectification, removal or restriction of your Personal Data; Where processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR, the right to object on grounds relating to your particular situation at any time. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing or the data is necessary for the establishment, exercise or defence of legal claims; Where processing of your Personal Data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the Personal Data concerning you in a structured, commonly used and machine-readable format or to have your Personal Data transmitted directly to another company, where technically feasible (data portability); Where the processing of your Personal Data is based on your consent, the right to withdraw your consent at any time without impact to data processing activities that have taken place before such withdrawal or to any other existing legal justification of the processing activity in question; and
 The right not to be subject to any automatic individual decisions which produces legal effects on you or similarly significantly affects you.
-To exercise the rights referred to above, please contact us at privacy@punipunistudios.com. You may take legal actions in relation to any breach of your rights regarding the processing of the Personal Data, as well as to lodge complaints with the competent authority.</p>
+To exercise the rights referred to above, please contact us at privacy@punipuni.studio. You may take legal actions in relation to any breach of your rights regarding the processing of the Personal Data, as well as to lodge complaints with the competent authority.</p>
             <h5 className="font-weight-bold m-1">8. Google analytics</h5>
             <p> Google Analytics is a web analysis service of Google LLC. (https://www.google.de/contact/impressum.html) (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; hereinafter "Google"). We use this service in order to adapt our site to your needs and to constantly improve it. The information generated by the Cookie about your use of this website (e.g. browser type/version, operating system used, URL of the previously visited page, IP address, time of server request) are transmitted to a Google server in the USA and stored there. The user profiles are created in pseudonymized form. The information obtained enables us to evaluate the use of our website and to record website activities. In addition, Google provides other services related to the use of the website and the Internet in order to conduct market research and to be able to design our website in line with requirements. The information may be passed on to third parties if this is required by law or if third parties process this data on behalf of the company. Your IP address will be anonymized (IP masking) and in no case merged with other Google data. You can prevent the aforementioned processing by Google and the collection of your data relating to the use of the website (including your IP address) by downloading and installing a browser add-on (https://tools.google.com/dlpage/gaoptout?hl=en). This link also provides further information on deactivating and correctly installing the browser add-on. For more information about Google Analytics' privacy practices, please visit https://support.google.com/analytics/answer/6004245?hl=en. We use the "Google Analytics" service as described on the basis of our legitimate interest (Art. 6 (1) lit. f DS-GVO).</p>
             <h5 className="font-weight-bold m-1">9. Changes to this Policy</h5>

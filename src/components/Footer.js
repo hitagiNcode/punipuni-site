@@ -17,19 +17,19 @@ function footer(){
                 <Row className="border-top justify-content-between p-2">
 
                     <Col className="p-0 " md={3} sm={12}>
-                        <Link  className="text-info" to="/">PuniPuni Studios Inc.</Link>
+                        <Link  className="text-info" to="/">PuniPuni Studio Inc.</Link>
                     </Col>
                     
-                    <Col > <h4> <a className="a" href="https://www.facebook.com/punipunistudios" 
+                    <Col > <h4> <a className="a" href="https://www.facebook.com/punipunistudio" 
                 target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square"></i></a>
-                <a className="a p-1" href="https://www.instagram.com/punipunistudios_/"  
+                <a className="a p-1" href="https://www.instagram.com/punipuni.studio/"  
                 target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
                 </h4></Col>
                     <Col className="p-0 text-center" md={3} sm={12}>                       
                     <Link className="text-info" to="/privacy">Privacy Policy</Link>       
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={5}>
-                    © 2019-2020 PuniPuni Studios. All rights reserved.
+                    © 2019-2021 PuniPuni Studio. All rights reserved.
                     </Col>
                 </Row>
             </Container>
