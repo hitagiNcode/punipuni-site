@@ -1,14 +1,16 @@
 import React from 'react';
 import Content from '../components/Content';
-
+import PuniGif from '../assets/img/slidergif.gif'
 
 function AboutPage (props){
     return (
         <div className="b-background container">   
             <h1 className="display-6 text-center text-warning p-4">About PuniPuni Studio</h1>
+            <div className="text-center"><img className="img-fluid" src={PuniGif}></img></div>
 
-            <Content >
-                <p>Hello, my name is <b>BARIS</b>. I'm the founder of <b>PuniPuni Studio</b>. In 2012, I started writing code with <b>JAVA </b> 
+            <Content  >
+            
+                <p className="mt-3">Hello, my name is <b>BARIS</b>. I'm the founder of <b>PuniPuni Studio</b>. In 2012, I started writing code with <b>JAVA </b> 
                 for my Minecraft server. I created a bunch of custom plugins for the server.
                 We really had fun at that time!</p>
                 <p>I also learned <b>MERN</b> stack. Because creating websites with React, Express Js, 
