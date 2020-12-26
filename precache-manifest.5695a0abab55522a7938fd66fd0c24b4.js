@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b972faf3ff23e4036f97f6b59a822698",
+    "revision": "92fe63cb41ab00fe7dcda9e6b7db7a8e",
     "url": "/punipuni-site/index.html"
   },
   {
-    "revision": "1bae692345759cae322a",
+    "revision": "5f94228d0decc00e2fa0",
     "url": "/punipuni-site/static/css/2.2574bb7b.chunk.css"
   },
   {
-    "revision": "6bf41f016655a51cf837",
-    "url": "/punipuni-site/static/css/main.92b32a87.chunk.css"
+    "revision": "b7047afb509d724818cb",
+    "url": "/punipuni-site/static/css/main.b90f1c74.chunk.css"
   },
   {
-    "revision": "1bae692345759cae322a",
-    "url": "/punipuni-site/static/js/2.e6bc8c94.chunk.js"
+    "revision": "5f94228d0decc00e2fa0",
+    "url": "/punipuni-site/static/js/2.f8ee8d42.chunk.js"
   },
   {
     "revision": "9e3f40ea04bbb9fe4c222c108facde66",
-    "url": "/punipuni-site/static/js/2.e6bc8c94.chunk.js.LICENSE.txt"
+    "url": "/punipuni-site/static/js/2.f8ee8d42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bf41f016655a51cf837",
-    "url": "/punipuni-site/static/js/main.036a43a1.chunk.js"
+    "revision": "b7047afb509d724818cb",
+    "url": "/punipuni-site/static/js/main.48d5e3b5.chunk.js"
   },
   {
     "revision": "a18808c6c70322288931",
@@ -52,20 +52,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/punipuni-site/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "7d37ba7c881dcf09ccdd2ef55eeed01a",
-    "url": "/punipuni-site/static/media/job-artist.7d37ba7c.png"
+    "revision": "353c4f45a623e048067f4ba3d828205b",
+    "url": "/punipuni-site/static/media/job-art.353c4f45.png"
   },
   {
-    "revision": "95bf94311f29635cc835bbc361748ee8",
-    "url": "/punipuni-site/static/media/job-codder.95bf9431.png"
+    "revision": "4ef6962d8c493d3f7c36a72497f992a8",
+    "url": "/punipuni-site/static/media/job-coder.4ef6962d.png"
   },
   {
     "revision": "b861ac79d7907c9d9a52cdbf09ef444b",
     "url": "/punipuni-site/static/media/job-top.b861ac79.png"
   },
   {
+    "revision": "410d0361cd6211b8361b7445b8cffe39",
+    "url": "/punipuni-site/static/media/logoicon.410d0361.png"
+  },
+  {
     "revision": "f06a148a94e19b7a7000dcf22326e63c",
     "url": "/punipuni-site/static/media/punipuni-cov.f06a148a.png"
+  },
+  {
+    "revision": "c9169d3aa09911eb6ffe0e3acbb4e62c",
+    "url": "/punipuni-site/static/media/punipuni-studio-pc.c9169d3a.png"
   },
   {
     "revision": "ce24218259e310e19f4ff4b34b2c9622",

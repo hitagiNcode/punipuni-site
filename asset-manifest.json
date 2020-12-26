@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.css": "/punipuni-site/static/css/main.92b32a87.chunk.css",
-    "main.js": "/punipuni-site/static/js/main.036a43a1.chunk.js",
-    "main.js.map": "/punipuni-site/static/js/main.036a43a1.chunk.js.map",
+    "main.css": "/punipuni-site/static/css/main.b90f1c74.chunk.css",
+    "main.js": "/punipuni-site/static/js/main.48d5e3b5.chunk.js",
+    "main.js.map": "/punipuni-site/static/js/main.48d5e3b5.chunk.js.map",
     "runtime-main.js": "/punipuni-site/static/js/runtime-main.1608922e.js",
     "runtime-main.js.map": "/punipuni-site/static/js/runtime-main.1608922e.js.map",
     "static/css/2.2574bb7b.chunk.css": "/punipuni-site/static/css/2.2574bb7b.chunk.css",
-    "static/js/2.e6bc8c94.chunk.js": "/punipuni-site/static/js/2.e6bc8c94.chunk.js",
-    "static/js/2.e6bc8c94.chunk.js.map": "/punipuni-site/static/js/2.e6bc8c94.chunk.js.map",
+    "static/js/2.f8ee8d42.chunk.js": "/punipuni-site/static/js/2.f8ee8d42.chunk.js",
+    "static/js/2.f8ee8d42.chunk.js.map": "/punipuni-site/static/js/2.f8ee8d42.chunk.js.map",
     "index.html": "/punipuni-site/index.html",
-    "precache-manifest.15918287822d8d13b828c3146f4570f1.js": "/punipuni-site/precache-manifest.15918287822d8d13b828c3146f4570f1.js",
+    "precache-manifest.5695a0abab55522a7938fd66fd0c24b4.js": "/punipuni-site/precache-manifest.5695a0abab55522a7938fd66fd0c24b4.js",
     "service-worker.js": "/punipuni-site/service-worker.js",
     "static/css/2.2574bb7b.chunk.css.map": "/punipuni-site/static/css/2.2574bb7b.chunk.css.map",
-    "static/css/main.92b32a87.chunk.css.map": "/punipuni-site/static/css/main.92b32a87.chunk.css.map",
-    "static/js/2.e6bc8c94.chunk.js.LICENSE.txt": "/punipuni-site/static/js/2.e6bc8c94.chunk.js.LICENSE.txt",
+    "static/css/main.b90f1c74.chunk.css.map": "/punipuni-site/static/css/main.b90f1c74.chunk.css.map",
+    "static/js/2.f8ee8d42.chunk.js.LICENSE.txt": "/punipuni-site/static/js/2.f8ee8d42.chunk.js.LICENSE.txt",
     "static/media/app-process.png": "/punipuni-site/static/media/app-process.193fbbdb.png",
     "static/media/font-awesome.min.css": "/punipuni-site/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/job-artist.png": "/punipuni-site/static/media/job-artist.7d37ba7c.png",
-    "static/media/job-codder.png": "/punipuni-site/static/media/job-codder.95bf9431.png",
-    "static/media/job-top.png": "/punipuni-site/static/media/job-top.b861ac79.png",
+    "static/media/job-art.png": "/punipuni-site/static/media/job-art.353c4f45.png",
+    "static/media/job-coder.png": "/punipuni-site/static/media/job-coder.4ef6962d.png",
+    "static/media/index.css": "/punipuni-site/static/media/job-top.b861ac79.png",
+    "static/media/logoicon.png": "/punipuni-site/static/media/logoicon.410d0361.png",
     "static/media/punipuni-cov.png": "/punipuni-site/static/media/punipuni-cov.f06a148a.png",
+    "static/media/punipuni-studio-pc.png": "/punipuni-site/static/media/punipuni-studio-pc.c9169d3a.png",
     "static/media/yut-cov2.png": "/punipuni-site/static/media/yut-cov2.ce242182.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1608922e.js",
     "static/css/2.2574bb7b.chunk.css",
-    "static/js/2.e6bc8c94.chunk.js",
-    "static/css/main.92b32a87.chunk.css",
-    "static/js/main.036a43a1.chunk.js"
+    "static/js/2.f8ee8d42.chunk.js",
+    "static/css/main.b90f1c74.chunk.css",
+    "static/js/main.48d5e3b5.chunk.js"
   ]
 }
