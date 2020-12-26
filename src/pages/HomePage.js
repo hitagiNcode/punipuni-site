@@ -17,12 +17,12 @@ function HomePage (props){
 		  	</div>
             <div className="row">
             <div className="col-xl-3 offset-xl-1 text-center mt-3">
-					<img className="img-fluid rounded" src={Logo} alt="Punipuni Logo laptop" />
+					<img className="img-fluid rounded homeLogo" src={Logo} alt="Punipuni Logo laptop" />
 			</div>
             <div className="col">
-            <h1 className="mt-3 text-center">Welcome to PuniPuni Studios!</h1>
-            <p>PuniPuni Studios is a game studio based in Antalya, Turkey.<br/>
-                 We were founded in 2019 and since then it’s been a great journey to create 
+            <h1 className="mt-3 text-center home-text">Welcome to PuniPuni Studio!</h1>
+            <p className="home-p"> - PuniPuni Studio is a game studio based in Antalya, Turkey.<br/>
+                    - We were founded in 2019 and since then it’s been a great journey to create 
                  a studio recalled by its’ games. We created several games while we continue this journey.</p>
             </div>
             </div>

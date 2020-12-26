@@ -13,7 +13,7 @@ const AutoplaySlider = withAutoplay(AwesomeSlider);
 
 function Slider(){
   return(
-    <div >
+    <div className="container sliderDiv" >
     <AutoplaySlider 
     animation="foldOutAnimation"
     cssModule={[CoreStyles, AnimationStyles]}
@@ -23,7 +23,7 @@ function Slider(){
     interval={3000}
   >
     <div ><img className="img-fluid slider-img" src={Cover1} alt=""></img></div>
-    <div ><img className="img-fluid" src={Cover2} alt=""></img></div>
+    <div ><img className="img-fluid slider-img" src={Cover2} alt=""></img></div>
     <div >3</div>
   </AutoplaySlider>
   </div>

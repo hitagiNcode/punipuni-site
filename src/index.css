@@ -36,6 +36,11 @@ code {
   max-height: 50px;
 }
 
+.homeLogo {
+  max-width: 200px;
+  max-height: 200px;
+}
+
 .env-size {
   font-size: 30px;
 }
@@ -79,8 +84,7 @@ a:hover {
 }
 
 #team .card {
-  max-width: 300px;
-  min-height: 390px;
+  background-color: #ffffff;
   border-radius: 0;
   box-shadow: 5px 5px 15px wheat;
   transition: all 0.3s ease-in;
@@ -136,4 +140,48 @@ a:hover {
       rgba(0, 0, 0, 0.4)
     ),
     url(./assets/img/jobs-page/job-top.png);
+}
+
+@media (max-width: 767px) {
+  .home-text {
+    font-size: 30px;
+  }
+  .home-p {
+    font-size: 15px;
+  }
+
+  #team .card {
+    max-width: 250px;
+    max-height: 330px;
+  }
+
+  .homeLogo {
+    max-width: 150px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .home-text {
+    font-size: 40px;
+  }
+  .home-p {
+    font-size: 20px;
+  }
+
+  #team .card {
+    max-width: 300px;
+    max-height: 350px;
+  }
+
+  .sliderDiv {
+    width: 70%;
+    margin-top: 5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  #team .card {
+    max-width: 300px;
+    max-height: 350px;
+  }
 }

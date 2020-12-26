@@ -1,6 +1,6 @@
 import React from 'react';
 import  Link  from 'react-router-dom/Link';
-import evverest from '../assets/img/evverest.png';
+import evverest from '../assets/img/logoicon.png';
 
 function AwesomeCards(){
     return( 
@@ -19,7 +19,7 @@ function AwesomeCards(){
                  <div className="card">
                     <Link className="" to="/fromhell"> 
                      <div className="card-body">
-                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
+                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50"></img>
                          <h3 className="text-dark">From Hell</h3>
                          <h5 className="text-dark">3D Horror Game</h5>
                          <p className="text-dark">Your biggest aim is to survive with your friends!</p>
@@ -44,7 +44,7 @@ function AwesomeCards(){
              <div className="card">
                 <Link className="" to="/puzzyles"> 
                      <div className="card-body">
-                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
+                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50"></img>
                          <h3 className="text-dark">Puzzyles</h3>
                          <h5 className="text-dark">2D Puzzle Game</h5>
                          <p className="text-dark">Your kids will be learning english while playing this game!</p>
@@ -68,7 +68,7 @@ function AwesomeCards(){
              <div className="card">
              <Link className="" to="/gunzfate"> 
                      <div className="card-body">
-                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50 mb-3"></img>
+                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50 "></img>
                          <h3 className="text-dark">Gunz Fate</h3>
                          <h5 className="text-dark">3D/2D Gun Game</h5>
                          <p className="text-dark">Kill all your enemies and clear the stages. Without hesitation!</p>
