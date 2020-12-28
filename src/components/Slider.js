@@ -7,7 +7,6 @@ import 'react-awesome-slider/dist/styles.css';
 import Cover from '../assets/img/Cover1.jpg';
 import Cover1 from '../assets/img/yut-cov2.png';
 import Cover2 from '../assets/img/punipuni-cov.png';
-import Video1 from '../assets/video/introvid.mp4';
 
 
 

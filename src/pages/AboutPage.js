@@ -6,7 +6,7 @@ function AboutPage (props){
     return (
         <div className="b-background container">   
             <h1 className="display-6 text-center text-warning p-4">About PuniPuni Studio</h1>
-            <div className="text-center"><img className="img-fluid" src={PuniGif}></img></div>
+            <div className="text-center"><img className="img-fluid" src={PuniGif} alt="PuniPuni Introcl"></img></div>
 
             <Content  >
             

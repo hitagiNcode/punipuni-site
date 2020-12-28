@@ -1,5 +1,4 @@
 import React from 'react';
-//import JobsTop from '../assets/img/jobs-page/job-top.png'
 import Coder from '../assets/img/jobs-page/job-coder.png'
 import ARTIST from '../assets/img/jobs-page/job-art.png'
 import Appl from '../assets/img/jobs-page/app-process.png'
@@ -9,7 +8,7 @@ import Appl from '../assets/img/jobs-page/app-process.png'
         return(
             <div className="container">
 				<div className="jobs-top text-center">
-				 {/* <img className="img-fluid mt-4 jobs-top text-center" src={JobsTop} alt=""></img>*/}
+				 {}
                  <a href="#jobs-apply">
 				 <button type="button" className="btn btn-danger job-btn btn-lg">APPLY NOW!</button></a>
 				</div>
