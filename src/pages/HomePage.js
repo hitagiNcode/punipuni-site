@@ -2,8 +2,6 @@ import React from 'react';
 import AwesomeCards from '../components/AwesomeCards';
 import Slider from '../components/Slider';
 import Logo from '../assets/img/punipuni-studio-pc.png'
-//<Carousel />  heronun altından cikarttım dandik oldugu için
-//<Hero title={props.title} subTitle={props.subTitle} text={props.text} />
 
 function HomePage (props){
     return (

@@ -19,15 +19,17 @@ function Slider(){
     animation="foldOutAnimation"
     cssModule={[CoreStyles, AnimationStyles]}
     mobileTouch={true}
+    fillParent={false}
+    className="sizeChange"
     play={true}
     cancelOnInteraction={false} // should stop playing on user interaction
     interval={3000}
   >
     <div >
-    <img className="img-fluid slider-img" src={Cover} alt="PuniPuni Studio Blender Cover"></img>
+    <img className="img-fluid slider-img" src={Cover} alt="PuniPuni Studio Blender Cover" ></img>
     </div>
-    <div ><img className="img-fluid slider-img" src={Cover1} alt=""></img></div>
-    <div ><img className="img-fluid slider-img" src={Cover2} alt=""></img></div>
+    <div ><img className="img-fluid slider-img" src={Cover1} alt="Punipuni Code Channel"></img></div>
+    <div ><img className="img-fluid slider-img" src={Cover2} alt="Mushroom Img"></img></div>
     
   </AutoplaySlider>
   </div>
