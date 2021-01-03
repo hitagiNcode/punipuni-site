@@ -1,7 +1,7 @@
 import React from 'react';
 import  Link  from 'react-router-dom/Link';
 import evverest from '../assets/img/logoicon.png';
-import ScaryLogo from '../assets/img/ScaryFLogo.png';
+import ScaryLogo from '../assets/img/gPlayLogo.png';
 
 function AwesomeCards(){
     return( 
@@ -20,8 +20,8 @@ function AwesomeCards(){
                  <div className="card">
                     <Link className="" to="/fromhell"> 
                      <div className="card-body">
-                         <img src={ScaryLogo} alt="" className="img-fluid rounded-circle w-50"></img>
-                         <h3 className="text-dark">Scary Family 3D</h3>
+                         <img src={ScaryLogo} alt="" className="img-fluid rounded-circle w-50 "></img>
+                         <h3 className="text-dark font-weight-bold border-top mt-1">Scary Family 3D</h3>
                          <h5 className="text-dark">3D Prank Game</h5>
                          <p className="text-dark">Your biggest aim is make jokes and be the biggest pranker ever!</p>
                          <div className="d-flex flex-row justify-content-center">
@@ -46,7 +46,7 @@ function AwesomeCards(){
                 <Link className="" to="/puzzyles"> 
                      <div className="card-body">
                          <img src={evverest} alt="" className="img-fluid rounded-circle w-50"></img>
-                         <h3 className="text-dark">Puzzyles</h3>
+                         <h3 className="text-dark font-weight-bold border-top mt-1">Puzzyles</h3>
                          <h5 className="text-dark">2D Puzzle Game</h5>
                          <p className="text-dark">Your kids will be learning english while playing this game!</p>
                          <div className="d-flex flex-row justify-content-center">
@@ -70,7 +70,7 @@ function AwesomeCards(){
              <Link className="" to="/gunzfate"> 
                      <div className="card-body">
                          <img src={evverest} alt="" className="img-fluid rounded-circle w-50 "></img>
-                         <h3 className="text-dark">Gunz Fate</h3>
+                         <h3 className="text-dark font-weight-bold border-top mt-1">Gunz Fate</h3>
                          <h5 className="text-dark">3D/2D Gun Game</h5>
                          <p className="text-dark">Kill all your enemies and clear the stages. Without hesitation!</p>
                          <div className="d-flex flex-row justify-content-center">
