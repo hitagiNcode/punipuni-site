@@ -158,9 +158,13 @@ a:hover {
   .homeLogo {
     max-width: 150px;
   }
-}
 
-.sizeChange {
+  .awssld__content {
+    height: 85%;
+  }
+  .awssld__controls {
+    margin-top: -15%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -180,6 +184,9 @@ a:hover {
     width: 70%;
     margin-top: 3px;
   }
+}
+.awssld__content {
+  background-color: #282c34 !important;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {

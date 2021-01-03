@@ -1,6 +1,7 @@
 import React from 'react';
 import  Link  from 'react-router-dom/Link';
 import evverest from '../assets/img/logoicon.png';
+import ScaryLogo from '../assets/img/ScaryFLogo.png';
 
 function AwesomeCards(){
     return( 
@@ -19,10 +20,10 @@ function AwesomeCards(){
                  <div className="card">
                     <Link className="" to="/fromhell"> 
                      <div className="card-body">
-                         <img src={evverest} alt="" className="img-fluid rounded-circle w-50"></img>
-                         <h3 className="text-dark">From Hell</h3>
-                         <h5 className="text-dark">3D Horror Game</h5>
-                         <p className="text-dark">Your biggest aim is to survive with your friends!</p>
+                         <img src={ScaryLogo} alt="" className="img-fluid rounded-circle w-50"></img>
+                         <h3 className="text-dark">Scary Family 3D</h3>
+                         <h5 className="text-dark">3D Prank Game</h5>
+                         <p className="text-dark">Your biggest aim is make jokes and be the biggest pranker ever!</p>
                          <div className="d-flex flex-row justify-content-center">
                              <div className="p-4">
                                  {/*Instead of facebook or instagram symbols use game-platform symbol*/}
